@@ -1,8 +1,34 @@
-# React + Vite
+# 🎨 Color Changer - React Project  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Overview  
+The **Color Changer** is a simple yet interactive React application that allows users to change the background color dynamically. Whether choosing from a preset palette or generating random colors, users can personalize their experience with just a click.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+- 🎨 Change background colors with ease  
+- 🔄 Random color generation  
+- 💡 Lightweight and fast  
+- ⚡ Built with React  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- React.js  
+- CSS  
+
+## 📦 Installation & Setup  
+
+1. Clone the repository:  
+   ```sh
+   git clone <your-repo-link>
+   cd color-changer
+
+npm install
+
+npm run dev
+
+## 📷 Preview  
+![Project Preview](./public/porject_view.png)  
+
+🤝 Contributing
+Feel free to fork this project and contribute to its improvement!
+
+
+Let me know if you need any modifications! 🚀
